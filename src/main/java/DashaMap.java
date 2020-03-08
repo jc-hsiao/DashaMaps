@@ -117,7 +117,8 @@ public abstract class DashaMap implements HashMapX{
         }
         @Override
         public String toString() {
-            return k + " " + v + "/ " ;
+            //return k + " " + v + "/ " ;
+            return String.format("| %10s: %7d |\n",k,v);
         }
     }
 
@@ -126,12 +127,25 @@ public abstract class DashaMap implements HashMapX{
     public String toString() {
         StringBuilder s = new StringBuilder();
         for (Node bucket : buckets) {
+            if(bucket.next!=null) {
+                String index = bucket.k;
+
+                if(bucket.k==null) {
+                    index = "?";
+                    s.append("|                     |\n");
+                }
+                else if(!bucket.k.equals("a"))
+                    s.append("|                     |\n");
+
+                s.append("|========= ").append(index).append(" =========|\n");
+                s.append("|                     |\n");
+            }
             for (Node n = bucket.next; n != null; n = n.next) {
                 s.append(n.toString());
             }
-            if(bucket.next!=null)
-                s.append("\n");
         }
+        s.append("|                     |\n");
+        s.append("|=====================|\n");
         return s.toString();
     }
 }

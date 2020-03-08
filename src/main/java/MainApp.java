@@ -1,7 +1,6 @@
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
-import java.io.InputStream;
 
 public class MainApp {
 
@@ -15,7 +14,12 @@ public class MainApp {
         readFile(filePath,map2);
         readFile(filePath,map3);
 
-
+        System.out.println("|======= Map01 =======|");
+        System.out.println(map1);
+        System.out.println("|======= Map02 =======|");
+        System.out.println(map2);
+        System.out.println("|======= Map03 =======|");
+        System.out.println(map3);
     }
 
     public static void readFile(String fileName, DashaMap map){
