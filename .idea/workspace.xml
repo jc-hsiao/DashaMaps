@@ -2,106 +2,81 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="16758b06-b4a0-4f1d-844b-c1c64f8682b8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DataStructureHashMap.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/word-list.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMapOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMapThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/DashaMapTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/HashMapX.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDashaMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDashaMapOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDashaMapThree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/TestDashaMapTwo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DashaMaps.iml" beforeDir="false" afterPath="$PROJECT_DIR$/DashaMaps.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/word-list.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/word-list.txt" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="629">
-                <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/word-list.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2074">
-              <caret line="122" column="7" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/word-list.txt" />
-      </list>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="324" />
-    <option name="y" value="23" />
-    <option name="width" value="1444" />
-    <option name="height" value="926" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MapsHashingMaps" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MapsHashingMaps" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
-    </panes>
+  <component name="ProjectId" id="1YpHORPWbH08tgsjgMTMU5GBQrE" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1565362466667" />
     <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.TestDashaMapThree">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -110,6 +85,59 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDashaMapThree" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDashaMapThree" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDashaMapThree.keyToIndexTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDashaMapThree" />
+      <option name="METHOD_NAME" value="keyToIndexTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDashaMapTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDashaMapTwo" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDashaMapTwo.bucketSizeNullTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDashaMapTwo" />
+      <option name="METHOD_NAME" value="bucketSizeNullTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestDashaMapTwo.bucketSizeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="DashaMaps" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestDashaMapTwo" />
+      <option name="METHOD_NAME" value="bucketSizeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -139,6 +167,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestDashaMapThree" />
+        <item itemvalue="JUnit.TestDashaMapThree.keyToIndexTest" />
+        <item itemvalue="JUnit.TestDashaMapTwo.bucketSizeNullTest" />
+        <item itemvalue="JUnit.TestDashaMapTwo.bucketSizeTest" />
+        <item itemvalue="JUnit.TestDashaMapTwo" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -152,82 +189,71 @@
       <updated>1565357944193</updated>
       <workItem from="1565357947238" duration="6000" />
       <workItem from="1565357963802" duration="4390000" />
+      <workItem from="1583632584521" duration="1540000" />
+      <workItem from="1583645281830" duration="20121000" />
     </task>
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4396000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="324" y="23" width="1444" height="926" extended-state="0" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Image Layers" order="2" />
-      <window_info id="Designer" order="3" />
-      <window_info id="UI Designer" order="4" />
-      <window_info id="Capture Tool" order="5" />
-      <window_info id="Favorites" order="6" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Theme Preview" order="4" />
-      <window_info anchor="right" id="Maven" order="5" />
-      <window_info anchor="right" id="Capture Analysis" order="6" />
-      <window_info anchor="right" id="Palette&#9;" order="7" />
-      <window_info anchor="right" id="Database" order="8" />
-    </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/word-list.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2074">
-          <caret line="122" column="7" selection-start-line="122" selection-start-column="7" selection-end-line="122" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="629">
-            <caret line="112" column="19" selection-start-line="112" selection-start-column="19" selection-end-line="112" selection-end-column="19" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>1.8</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="275" y="76" key="#Project_Structure" timestamp="1583633006974">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="275" y="76" key="#Project_Structure/0.23.1280.723@0.23.1280.723" timestamp="1583633006974" />
+    <state x="417" y="104" key="#com.intellij.ide.util.MemberChooser" timestamp="1583696579346">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="417" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1280.723@0.23.1280.723" timestamp="1583696579346" />
+    <state x="417" y="104" key="#com.intellij.ide.util.MemberChooser/0.23.1280.724@0.23.1280.724" timestamp="1583648150898" />
+    <state width="1166" height="215" key="GridCell.Tab.0.bottom" timestamp="1583699018519">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="215" key="GridCell.Tab.0.bottom/0.23.1280.723@0.23.1280.723" timestamp="1583699018519" />
+    <state width="1166" height="208" key="GridCell.Tab.0.bottom/0.23.1280.724@0.23.1280.724" timestamp="1583647866409" />
+    <state width="1166" height="215" key="GridCell.Tab.0.center" timestamp="1583699018518">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="215" key="GridCell.Tab.0.center/0.23.1280.723@0.23.1280.723" timestamp="1583699018518" />
+    <state width="1166" height="208" key="GridCell.Tab.0.center/0.23.1280.724@0.23.1280.724" timestamp="1583647866408" />
+    <state width="1166" height="215" key="GridCell.Tab.0.left" timestamp="1583699018518">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="215" key="GridCell.Tab.0.left/0.23.1280.723@0.23.1280.723" timestamp="1583699018518" />
+    <state width="1166" height="208" key="GridCell.Tab.0.left/0.23.1280.724@0.23.1280.724" timestamp="1583647866407" />
+    <state width="1166" height="215" key="GridCell.Tab.0.right" timestamp="1583699018518">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="215" key="GridCell.Tab.0.right/0.23.1280.723@0.23.1280.723" timestamp="1583699018518" />
+    <state width="1166" height="208" key="GridCell.Tab.0.right/0.23.1280.724@0.23.1280.724" timestamp="1583647866409" />
+    <state width="1166" height="96" key="GridCell.Tab.1.bottom" timestamp="1583696564503">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="96" key="GridCell.Tab.1.bottom/0.23.1280.723@0.23.1280.723" timestamp="1583696564503" />
+    <state width="1166" height="208" key="GridCell.Tab.1.bottom/0.23.1280.724@0.23.1280.724" timestamp="1583647867090" />
+    <state width="1166" height="96" key="GridCell.Tab.1.center" timestamp="1583696564502">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="96" key="GridCell.Tab.1.center/0.23.1280.723@0.23.1280.723" timestamp="1583696564502" />
+    <state width="1166" height="208" key="GridCell.Tab.1.center/0.23.1280.724@0.23.1280.724" timestamp="1583647867086" />
+    <state width="1166" height="96" key="GridCell.Tab.1.left" timestamp="1583696564502">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="96" key="GridCell.Tab.1.left/0.23.1280.723@0.23.1280.723" timestamp="1583696564502" />
+    <state width="1166" height="208" key="GridCell.Tab.1.left/0.23.1280.724@0.23.1280.724" timestamp="1583647867086" />
+    <state width="1166" height="96" key="GridCell.Tab.1.right" timestamp="1583696564503">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state width="1166" height="96" key="GridCell.Tab.1.right/0.23.1280.723@0.23.1280.723" timestamp="1583696564503" />
+    <state width="1166" height="208" key="GridCell.Tab.1.right/0.23.1280.724@0.23.1280.724" timestamp="1583647867088" />
+    <state x="366" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1583649075394">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="366" y="23" key="refactoring.ChangeSignatureDialog/0.23.1280.723@0.23.1280.723" timestamp="1583649075394" />
+    <state x="267" y="70" width="670" height="676" key="search.everywhere.popup" timestamp="1583694661162">
+      <screen x="0" y="23" width="1280" height="723" />
+    </state>
+    <state x="267" y="70" width="670" height="676" key="search.everywhere.popup/0.23.1280.723@0.23.1280.723" timestamp="1583694661162" />
   </component>
 </project>
